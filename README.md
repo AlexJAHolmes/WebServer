@@ -1,0 +1,1 @@
+at its core, it's a web server I designed for a specific use but I also plan to add some functionality to be able to do things like be invoked from the command line to serve a single HTML file, or a folder, primarily for things like testing, or be set up properly to be used as a proper web server. As of right now, I should focus on getting the core functionality up and running.
